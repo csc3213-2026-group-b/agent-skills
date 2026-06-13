@@ -23,6 +23,25 @@
       "source": "./",
       "strict": true,
       "skills": ["./skills/simplewebauthn"]
+    },
+    {
+      "name": "Next.js",
+      "description": "Accelerate Next.js development with inline API reference, request testing, code generation, and best practices.",
+      "source": "./",
+      "strict": true,
+      "skills": [
+        "./skills/next-best-practices",
+        "./skills/next-cache-components",
+        "./skills/next-upgrade",
+        "./skills/nextjs"
+      ]
+    },
+    {
+      "name": "ShadCN",
+      "description": "Accelerate ShadCN UI development with inline API reference, request testing, code generation, and best practices.",
+      "source": "./",
+      "strict": true,
+      "skills": ["./skills/shadcn", "./skills/shadcn-ui"]
     }
   ]
 }

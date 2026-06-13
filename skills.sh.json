@@ -8,9 +8,19 @@
       "skills": ["hono"]
     },
     {
-      "title": "WebAuthn",
-      "description": "Efficiently integrate WebAuthn/passkey flows using the SimpleWebAuthn library, with concise recipes for server and browser-side implementation and debugging.",
-      "skills": ["simplewebauthn"]
+      "title": "Next.js",
+      "description": "Accelerate Next.js development with inline API reference, request testing, code generation, and best practices.",
+      "skills": [
+        "next-best-practices",
+        "next-cache-components",
+        "next-upgrade",
+        "nextjs"
+      ]
+    },
+    {
+      "title": "ShadCN",
+      "description": "Accelerate ShadCN UI development with inline API reference, request testing, code generation, and best practices.",
+      "skills": ["shadcn", "shadcn-ui"]
     }
   ]
 }
