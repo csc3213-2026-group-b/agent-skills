@@ -16,6 +16,13 @@
       "source": "./",
       "strict": true,
       "skills": ["./skills/hono"]
+    },
+    {
+      "name": "simplewebauthn",
+      "description": "Efficiently integrate WebAuthn/passkey flows using the SimpleWebAuthn library, with concise recipes for server and browser-side implementation and debugging.",
+      "source": "./",
+      "strict": true,
+      "skills": ["./skills/simplewebauthn"]
     }
   ]
 }
