@@ -1,0 +1,11 @@
+{
+  "$schema": "https://www.skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Hono",
+      "description": "Efficiently develop Hono applications with inline API reference and request testing.",
+      "skills": ["hono"]
+    }
+  ]
+}

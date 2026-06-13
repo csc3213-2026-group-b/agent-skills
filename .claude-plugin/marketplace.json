@@ -1,0 +1,21 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "csc3213-2026-group-b",
+  "owner": {
+    "name": "CSC3213 Group B - SCS PDN - 2026",
+    "email": "contact@scs-pdn.space"
+  },
+  "metadata": {
+    "description": "A collection of skills used by the agents in our CSC3213 project, organized into categories for easy reference.",
+    "version": "0.0.1"
+  },
+  "plugins": [
+    {
+      "name": "hono",
+      "description": "Efficiently develop Hono applications with inline API reference and request testing.",
+      "source": "./",
+      "strict": true,
+      "skills": ["./skills/hono"]
+    }
+  ]
+}
