@@ -3,9 +3,19 @@
   "notGrouped": "bottom",
   "groupings": [
     {
+      "title": "Cloudflare",
+      "description": "Skills for Cloudflare.",
+      "skills": ["cloudflare"]
+    },
+    {
       "title": "Hono",
       "description": "Efficiently develop Hono applications with inline API reference and request testing.",
       "skills": ["hono"]
+    },
+    {
+      "title": "WebAuthn",
+      "description": "Efficiently integrate WebAuthn/passkey flows using the SimpleWebAuthn library, with concise recipes for server and browser-side implementation and debugging.",
+      "skills": ["simplewebauthn"]
     },
     {
       "title": "Next.js",
@@ -21,6 +31,64 @@
       "title": "ShadCN",
       "description": "Accelerate ShadCN UI development with inline API reference, request testing, code generation, and best practices.",
       "skills": ["shadcn", "shadcn-ui"]
+    },
+    {
+      "title": "api.scs.pdn.ac.lk",
+      "description": "Skills for api.scs.pdn.ac.lk, the API for the Statistics & Computer Science Department of the University of Peradeniya.",
+      "skills": ["hono", "simplewebauthn"]
+    },
+    {
+      "title": "people.scs.pdn.ac.lk",
+      "description": "Skills for people.scs.pdn.ac.lk, the API for the Statistics & Computer Science Department of the University of Peradeniya.",
+      "skills": [
+        "next-best-practices",
+        "next-cache-components",
+        "next-upgrade",
+        "nextjs",
+        "shadcn",
+        "shadcn-ui"
+      ]
+    },
+    {
+      "title": "portal.scs.pdn.ac.lk",
+      "description": "Skills for portal.scs.pdn.ac.lk, the API for the Statistics & Computer Science Department of the University of Peradeniya.",
+      "skills": [
+        "next-best-practices",
+        "next-cache-components",
+        "next-upgrade",
+        "nextjs",
+        "shadcn",
+        "shadcn-ui"
+      ]
+    },
+    {
+      "title": "projects.scs.pdn.ac.lk",
+      "description": "Skills for projects.scs.pdn.ac.lk, the API for the Statistics & Computer Science Department of the University of Peradeniya.",
+      "skills": [
+        "next-best-practices",
+        "next-cache-components",
+        "next-upgrade",
+        "nextjs",
+        "shadcn",
+        "shadcn-ui"
+      ]
+    },
+    {
+      "title": "scs.pdn.ac.lk",
+      "description": "Skills for scs.pdn.ac.lk, the API for the Statistics & Computer Science Department of the University of Peradeniya.",
+      "skills": [
+        "next-best-practices",
+        "next-cache-components",
+        "next-upgrade",
+        "nextjs",
+        "shadcn",
+        "shadcn-ui"
+      ]
+    },
+    {
+      "title": "scs-portal-auth-app",
+      "description": "Skills for scs-portal-auth-app, the API for the Statistics & Computer Science Department of the University of Peradeniya.",
+      "skills": ["cloudflare", "simplewebauthn"]
     }
   ]
 }

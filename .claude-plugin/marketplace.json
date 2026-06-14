@@ -11,6 +11,13 @@
   },
   "plugins": [
     {
+      "name": "Cloudflare",
+      "description": "Skills for Cloudflare.",
+      "source": "./",
+      "strict": true,
+      "skills": ["./skills/cloudflare"]
+    },
+    {
       "name": "hono",
       "description": "Efficiently develop Hono applications with inline API reference and request testing.",
       "source": "./",

@@ -1,0 +1,22 @@
+{
+  "$schema": "https://www.schemastore.org/package.json",
+  "name": "agent-skills",
+  "description": "The agent skills we use in CSC3213 to provide context about our stack, workflows, and development practices.",
+  "scripts": {
+    "format": "prettier . --write"
+  },
+  "prettier": {
+    "printWidth": 80,
+    "tabWidth": 2,
+    "useTabs": false,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "es5",
+    "bracketSpacing": true,
+    "arrowParens": "always",
+    "endOfLine": "auto"
+  },
+  "devDependencies": {
+    "prettier": "^3.8.4"
+  }
+}
